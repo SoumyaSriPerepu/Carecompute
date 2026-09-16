@@ -1,0 +1,34 @@
+{
+  "numeric": [
+    "age",
+    "hr_min",
+    "hr_mean",
+    "hr_max",
+    "rr_min",
+    "rr_mean",
+    "rr_max",
+    "spo2_min",
+    "spo2_mean",
+    "spo2_max",
+    "sbp_min",
+    "sbp_mean",
+    "sbp_max",
+    "temp_min",
+    "temp_mean",
+    "temp_max",
+    "creatinine",
+    "bun",
+    "wbc",
+    "hemoglobin",
+    "platelets",
+    "glucose",
+    "lactate",
+    "has_diabetes",
+    "has_ckd",
+    "has_chf"
+  ],
+  "categorical": [
+    "sex",
+    "admission_type"
+  ]
+}
