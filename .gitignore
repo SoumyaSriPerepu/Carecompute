@@ -66,3 +66,4 @@ src/models/saved/
 build/
 dist/
 *.egg-info/
+scripts/archive/
