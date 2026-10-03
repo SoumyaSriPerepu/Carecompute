@@ -1,1 +1,68 @@
 
+# ============================================================
+# CareCompute — Git Ignore
+# ============================================================
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.pytest_cache/
+.mypy_cache/
+
+# Virtual environments
+venv/
+.venv/
+env/
+ENV/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE / Editor
+.vscode/
+.idea/
+
+# Environment variables / secrets
+.env
+.env.*
+*.env
+secrets.toml
+.streamlit/secrets.toml
+
+# Credentials / keys
+*.pem
+*.key
+credentials.json
+
+# Raw / local datasets
+data/
+datasets/
+raw_data/
+*.arff
+
+# CareCompute experimental outputs
+results/
+outputs/
+logs/
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+
+# Model/cache files
+*.pkl
+*.pickle
+*.joblib
+
+# Python packaging
+build/
+dist/
+*.egg-info/
