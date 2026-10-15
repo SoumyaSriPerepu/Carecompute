@@ -1,0 +1,163 @@
+{
+  "project": "CareCompute / RescueNet",
+  "release_type": "offline_research_artifact_inventory",
+  "versions": {
+    "v2": {
+      "status": "FROZEN_OFFLINE_RESEARCH_EVALUATION",
+      "artifact_count": 16,
+      "artifacts": [
+        {
+          "filename": "phase15_1_frozen_protocol.json",
+          "sha256": "14c4a77fe2185890b79ed6770cf851cfc86c8ca4d970fc8ad18cf2a7b10d74ae",
+          "verified": true
+        },
+        {
+          "filename": "phase15_2_verified_baselines.csv",
+          "sha256": "bc37e70dd7ec5115b326fea3ececac3d08b421a559055f18a57658b10271ecd5",
+          "verified": true
+        },
+        {
+          "filename": "phase15_3_mlp_cv_results.csv",
+          "sha256": "5c597ded8bc62a025987db0cac7c38366f666646649564c76dfeec73463b8f36",
+          "verified": true
+        },
+        {
+          "filename": "phase15_3_mlp_oof_predictions.csv",
+          "sha256": "136720beebbb46c19b2f2acac0ce27c647914255446b7fb1a9fcac8defbb5c5a",
+          "verified": true
+        },
+        {
+          "filename": "phase15_3_mlp_router.joblib",
+          "sha256": "2a618a5aea5607f70bbb09eb8f0e68d47e26e1e24fb137c11fb8d0c8a2348dbf",
+          "verified": true
+        },
+        {
+          "filename": "phase15_3_neural_selection.json",
+          "sha256": "1896643e8b50d764a0a51e1d0f44b2f6f130e1f9e985831b865f2c849386e27e",
+          "verified": true
+        },
+        {
+          "filename": "phase15_3_protocol_amendment.json",
+          "sha256": "35970f22f40b2eadcb0290691f382a37af2ad5f17e563fb0fbdefa419f89b5e1",
+          "verified": true
+        },
+        {
+          "filename": "phase15_3_selected_mlp_b.joblib",
+          "sha256": "0df43c74fb659eec9216e6236c91d64ec5daf44596a4dfa6d05141fc10127fc4",
+          "verified": true
+        },
+        {
+          "filename": "phase15_4_evaluation_audit.json",
+          "sha256": "07a01588897d4b64e67bac4e4491ca99cc39283ec84d4cb859112095fcf84310",
+          "verified": true
+        },
+        {
+          "filename": "phase15_4_neural_budget_results.csv",
+          "sha256": "19e74d01a18e47371d03ce20145c5f1e5dd1e78238464f60d57fa84ad35d50f7",
+          "verified": true
+        },
+        {
+          "filename": "phase15_4_neural_test_predictions.csv",
+          "sha256": "fcff747f018d314896856f84c2733b3b9a9d6163406d925fd7add050d29650b0",
+          "verified": true
+        },
+        {
+          "filename": "phase15_5_neural_ensemble_oof.csv",
+          "sha256": "341d4dd42c247a4fc688ff8aec0a3ba13c6e0cf05b981cc3b513405968aefba2",
+          "verified": true
+        },
+        {
+          "filename": "phase15_6_uncertainty_development_findings.json",
+          "sha256": "cdbc6f11a173b1249e8578a6ccdfd5c96858fcd76674a9ec281d112699ad29eb",
+          "verified": true
+        },
+        {
+          "filename": "phase15_7_four_router_comparison.csv",
+          "sha256": "4c6feb95e898a4b24940a6fc93c2daed3f66e6d680359b02aa4f5fd69af59bfd",
+          "verified": true
+        },
+        {
+          "filename": "phase15_7_four_router_summary.csv",
+          "sha256": "41ea13f431c4cc06e4ca7b72752310a65a6a1c2ae2e4577bb4b573e087445715",
+          "verified": true
+        },
+        {
+          "filename": "phase15_8_neural_feature_ablation.csv",
+          "sha256": "e320ac7c081f0db8c3a6a7fb5296ad6682e4813609cc3f53e06d75586a106b40",
+          "verified": true
+        }
+      ]
+    },
+    "v2_1": {
+      "status": "FROZEN_OFFLINE_RESEARCH_PROTOTYPE",
+      "artifact_count": 13,
+      "artifacts": [
+        {
+          "filename": "phase16_1_segmentation_model.joblib",
+          "sha256": "b1146e55559f8e6a332e9cdddd392dad3d4bdb6f4db5a518830a5d123a94d26b",
+          "verified": true
+        },
+        {
+          "filename": "phase16_1_development_segments.csv",
+          "sha256": "5220bad1021e2d8f660e9590b260c6a00d36d557368c4a81fbfd870cecaf861b",
+          "verified": true
+        },
+        {
+          "filename": "phase16_1_development_profiles.csv",
+          "sha256": "8e5fb2d6c3a89f7990276d521fbd396f39b5fa7fc66551d7058c068508d21a31",
+          "verified": true
+        },
+        {
+          "filename": "phase16_1_segmentation_config.json",
+          "sha256": "6c7d267d270224b180fa28608b16108bbc35b8e716942a328b3b38d8b7d6349e",
+          "verified": true
+        },
+        {
+          "filename": "phase16_1_segment_freeze.json",
+          "sha256": "44053cb112564b0f2f2265af53a16e079f3f77a87d47d5f514f38d1656cca4d6",
+          "verified": true
+        },
+        {
+          "filename": "phase16_2_test_segment_assignments.csv",
+          "sha256": "36d8656f633c245b9e459ecbd90953ec19f514b794e5e8e75e5305aee383ac69",
+          "verified": true
+        },
+        {
+          "filename": "phase16_2_segment_budget_results.csv",
+          "sha256": "bd4022e405c49ccd7806280c4c71b8718319406e62bc4c6413f94021f9c4769c",
+          "verified": true
+        },
+        {
+          "filename": "phase16_2_segment_cluster_bootstrap.csv",
+          "sha256": "7632142e21c5f85fb29f714a366e4bc9a924c168a25aa3916487a6b404ce2c65",
+          "verified": true
+        },
+        {
+          "filename": "phase16_2_evaluation_closure.json",
+          "sha256": "4c5d1a508bec422c30a1fe35c5d8804be866ccfa558391c0d30843a5db0badfd",
+          "verified": true
+        },
+        {
+          "filename": "phase16_3_incremental_uncertainty_cv.csv",
+          "sha256": "ed9240b8c3ce99064a1ad97ba1bdb2f4d11ff245172ea2880fd8ef4da514a8ca",
+          "verified": true
+        },
+        {
+          "filename": "phase16_3_uncertainty_closure.json",
+          "sha256": "03078eaf523652f85e6e68baa3b0a33fa0a22dfd1b6c761137a27e28911312e6",
+          "verified": true
+        },
+        {
+          "filename": "phase16_4_neural_review_packets.jsonl",
+          "sha256": "704a7b06690c181430cf1af3930b7e753e62f2cb473819fec095a784fc15af64",
+          "verified": true
+        },
+        {
+          "filename": "phase16_4_integration_summary.json",
+          "sha256": "01a1e1a139c39ad0fc9b8bf856bcabff5428655bffb4d1079ab81514d65955ff",
+          "verified": true
+        }
+      ]
+    }
+  }
+}
