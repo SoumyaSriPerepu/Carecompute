@@ -35,8 +35,41 @@ The repository does not contain identifiable patient information.
 
 Research pipeline: **Frozen**
 
-Interactive demonstration: **In development**
+Interactive demonstration: **V1 demo available**
 
 ## Disclaimer
 
 CareCompute is a research prototype and is not a medical device or clinical decision-support system. It must not be used for diagnosis, treatment, or real-world patient-care decisions.
+
+## Research Versions
+
+| Version | Description | Documentation |
+|---|---|---|
+| CareCompute V1 | Logistic regression rescue router and agentic workflow | [V1](docs/v1/README.md) |
+| RescueNet V2 | Neural router and multi-budget evaluation | [V2](docs/v2/README.md) |
+| RescueNet V2.1 | Segmentation, uncertainty analysis, and offline orchestration | [V2.1](docs/v2_1/README.md) |
+
+### Interactive Demonstration
+
+**CareCompute V1 Streamlit Demo:**
+https://carecompute.streamlit.app
+
+The demonstration represents CareCompute V1.
+V2 and V2.1 remain offline research evaluations.
+
+### Research Integrity
+
+All 29 manifest-listed V2 and V2.1 research artifacts
+were verified against their frozen SHA-256 checksums.
+
+Verification inventory:
+[Research Artifact Inventory](research_release/verification/frozen_artifact_inventory.json)
+
+The frozen experimental artifacts remain excluded from
+the public repository pending release review.
+
+MLP superiority over the V1 logistic regression router
+was not statistically established.
+
+The system is not clinically deployed.
+
