@@ -1,0 +1,6 @@
+review_budget_pct,lr_fn_captured,mlp_fn_captured,random_expected_fn_captured,lr_fn_coverage_pct,mlp_fn_coverage_pct,random_expected_coverage_pct,lr_minus_mlp_fn_captured,lr_minus_mlp_coverage_pp
+5,303,256,195.504,7.75,6.55,5.0,47,1.2
+10,591,513,390.85,15.12,13.12,10.0,78,2.0
+15,858,752,586.358,21.95,19.24,15.0,106,2.71
+20,1115,999,781.787,28.52,25.56,20.0,116,2.97
+25,1382,1235,977.29,35.35,31.59,25.0,147,3.76
